@@ -4,6 +4,7 @@ transcript_by: 0tuedon via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Bech32m---Episode-11-ev1jnc
 speakers: ["Mark Erhardt"]
 categories: ["podcast"]
+tags: []
 date: 2021-04-16
 ---
 Speaker 0: 00:00:00

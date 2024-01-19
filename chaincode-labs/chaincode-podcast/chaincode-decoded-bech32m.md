@@ -1,10 +1,9 @@
 ---
-title: "Chaincode Decoded: Bech32m"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+title: Chaincode Decoded: Bech32m
+transcript_by: 0tuedon via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Bech32m---Episode-11-ev1jnc
-tags: []
-speakers: ['Mark Erhardt']
-categories: ['podcast']
+speakers: ["Mark Erhardt"]
+categories: ["podcast"]
 date: 2021-04-16
 ---
 Speaker 0: 00:00:00
@@ -13,12 +12,6 @@ Chaincode podcast is back.
 Welcome back to the Chaincode podcast.
 I am here with Merch.
 Hey there.
-And we are back.
-It's been quite a layoff, but we're back in the studio and happy to be here.
-
-Speaker 1: 00:00:16
-
-Very happy.
 
 Speaker 0: 00:00:17
 

@@ -1,5 +1,5 @@
 ---
-title: Chaincode Decoded: Bech32m
+title: "Chaincode Decoded: Bech32m"
 transcript_by: 0tuedon via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Bech32m---Episode-11-ev1jnc
 speakers: ["Mark Erhardt"]

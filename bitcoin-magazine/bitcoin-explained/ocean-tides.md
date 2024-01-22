@@ -1,10 +1,8 @@
 ---
 title: "Ocean Tides"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: 0tuedon via review.btctranscripts.com
 media: https://bitcoinexplainedpodcast.com/@nado/episodes/episode-86-ocean-tides-hktbg
-tags: []
-speakers: ['Sjors Provoost', 'Aaron van Wirdum']
-categories: []
+speakers: ["Sjors Provoost","Aaron van Wirdum"]
 date: 2023-12-06
 ---
 Speaker 0: 00:00:21
@@ -19,11 +17,6 @@ Speaker 1: 00:00:28
 That is correct.
 We have a new sponsor.
 
-Speaker 0: 00:00:30
-
-Isn't that great?
-
-Speaker 1: 00:00:31
 
 That's right.
 Our new sponsor is Coinkind, the company behind the cold card.

@@ -16,13 +16,7 @@ Damn.
 So I think everybody knows that custody in Bitcoin is really hard and pretty much  everybody's major fear on Bitcoin is waking up one day and you know,  checking your wallet and seeing that somebody's gotten away with your coins.
 And so a lot of thought has been put into, you know,  things that can mitigate the risk of losing your coins.
 And especially kind of having experienced an industrial custody context  at a few different places.
-There's been an idea circulating for a while of this notion of a vault.
-And the idea of a vault is basically that you can walk up the coins in such a way  that if you want to move them in general,  you have to wait for this delay period and during the delay period.
-You can kind of contest the spend aside from spending the coins into a  pre-specified recovery path.
-And so I think the first time that vaults were really discussed was in a paper.
-I want to say in 2014 or 2015, it's paper called Bitcoin Covenants,  written by Moser, Yael, and Eamon Gunseer.
-And it's kind of an interesting paper because they formalized sort of the notion  of Bitcoin Covenants, which had been kind of mentioned by Greg Maxwell in a Bitcoin talk post  back in 2013 in actually a very derogatory context.
-But these guys form wise it into a paper sort of, and it's a weird paper because  they spend the first half talking about vaults and then like the second half talking about how  they can repurpose this covenant stuff to make Bitcoin and G.
+Ther sort of, and it's a weird paper because  they spend the first half talking about vaults and then like the second half talking about how  they can repurpose this covenant stuff to make Bitcoin and G.
 But it's worth a read if you're  interested in vaults.
 So anyway, they sort of discussed in the abstract this idea of how you could  put a constraint on not only just unlocking a coin and spending it to some arbitrary destination,  but you could put constraints on how the coins actually spend.
 And then you could use that to  reify this idea of a vault.

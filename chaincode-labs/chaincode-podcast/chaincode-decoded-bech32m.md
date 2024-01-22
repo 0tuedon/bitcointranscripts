@@ -19,8 +19,7 @@ So today we are going to revisit a segment called Chinko decoded where we're goi
 And we are going to start with batch 32 and batch 32 M.
 Hope you enjoy.
 Happy to be back.
-Let's talk about batch 32.
-All right.
+Let's talk
 What's going on there?
 Maybe we'll start with the pronunciation.
 Are you sure it's batch 32?

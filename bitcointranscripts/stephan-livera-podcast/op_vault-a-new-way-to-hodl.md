@@ -13,12 +13,7 @@ Ace of funds great to be back.
 I think it's been almost four years, huh?
 Damn.
 
-So I think everybody knows that custody in Bitcoin is really hard and pretty much  everybody's major fear on Bitcoin is waking up one day and you know,  checking your wallet and seeing that somebody's gotten away with your coins.
-And so a lot of thought has been put into, you know,  things that can mitigate the risk of losing your coins.
-And especially kind of having experienced an industrial custody context  at a few different places.
-Ther sort of, and it's a weird paper because  they spend the first half talking about vaults and then like the second half talking about how  they can repurpose this covenant stuff to make Bitcoin and G.
-But it's worth a read if you're  interested in vaults.
-So anyway, they sort of discussed in the abstract this idea of how you could  put a constraint on not only just unlocking a coin and spending it to some arbitrary destination,  but you could put constraints on how the coins actually spend.
+So I think everybody knows that custody in Bitcoin is really hard and pretty much  everybody's major fear on Bitcoin is destination,  but you could put constraints on how the coins actually spend.
 And then you could use that to  reify this idea of a vault.
 So let's just take one step, just to make sure everyone's following  along, right?
 Because I think I'm following you and I think you obviously you understand this,  but just make sure listen is a following along.

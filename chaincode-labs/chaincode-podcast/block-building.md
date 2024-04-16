@@ -1,13 +1,11 @@
 ---
 title: "Block Building"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: 0tuedon via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Block-Building-with-Clara-and-Murch---Episode-18-e1dmitu
-tags: ['research', 'mining','bitcoin-core']
-speakers: ['Clara Shikhelman']
-categories: ['podcast']
+tags: ["research","mining","bitcoin-core"]
+speakers: ["Clara Shikhelman","Aaron van Wirdum"]
+categories: ["podcast"]
 date: 2022-02-01
-episode: 18
-summary: "Postdoc Researcher Clara joins Murch to discuss their block building research. They cover their proposal, which outlines suggested improvements to the current Bitcoin Core block building algorithm using candidate sets"
 ---
 Speaker 0: 00:00:00
 

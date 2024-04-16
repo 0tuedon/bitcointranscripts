@@ -4,7 +4,7 @@ transcript_by: 0tuedon via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Block-Building-with-Clara-and-Murch---Episode-18-e1dmitu
 tags: ["research","mining","bitcoin-core"]
 speakers: ["Clara Shikhelman","Aaron van Wirdum"]
-categories: ["podcast"]
+categories: ["residency"]
 date: 2022-02-01
 ---
 Speaker 0: 00:00:00

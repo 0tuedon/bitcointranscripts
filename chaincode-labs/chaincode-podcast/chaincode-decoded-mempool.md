@@ -1,26 +1,11 @@
 ---
 title: "Chaincode Decoded: Mempool"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
+transcript_by: 0tuedon via review.btctranscripts.com
 media: https://podcasters.spotify.com/pod/show/chaincode/episodes/Chaincode-Decoded-Mempool---Episode-12-evn0q1
-tags: ['anchor-outputs', 'cpfp', 'package-relay', 'rbf']
-speakers: ['Mark Erhardt']
-categories: ['podcast']
-summary: "The Chaincode Decoded segment returns and we jump into the deep end of the mempool."
-episode: 12
+tags: ["anchor-outputs","cpfp","package-relay","rbf"]
+speakers: ["Mark Erhardt"]
+categories: ["podcast"]
 date: 2021-04-26
-additional_resources:
--   title: Child Pays for Parent (CPFP)
-    url: https://bitcoinops.org/en/topics/cpfp/
--   title: Replace by Fee (RBF)
-    url: https://bitcoinops.org/en/topics/replace-by-fee/
--   title: BIP 125
-    url: https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki
--   title: Anchor Outputs
-    url: https://bitcoinops.org/en/topics/anchor-outputs/
--   title: Package Relay
-    url: https://bitcoinops.org/en/topics/package-relay/
--   title: blockchain.com implements Segwit
-    url: https://github.com/blockchain/blockchain-wallet-v4-frontend/pull/1779
 ---
 Speaker 0: 00:00:00
 

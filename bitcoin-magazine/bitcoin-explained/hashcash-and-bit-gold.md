@@ -1,12 +1,15 @@
 ---
-title: "Hashcash and Bit Gold"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-media: https://bitcoinexplainedpodcast.com/@nado/episodes/episode-88-hashcash-and-bit-gold-a5cjn
+title: 'Hashcash and Bit Gold'
+transcript_by: '0tuedon via review.btctranscripts.com'
+media: 'https://bitcoinexplainedpodcast.com/@nado/episodes/episode-88-hashcash-and-bit-gold-a5cjn'
+date: '2024-01-03'
 tags: []
-speakers: ['Sjors Provoost', 'Aaron van Wirdum']
-categories: ['podcast']
-date: 2024-01-03
-summary: "In this episode of Bitcoin, Explained, Aaron and Sjors discuss two electronic cash projects that predate Bitcoin: Adam Back’s Hashcash and Nick Szabo’s Bit Gold. As detailed in Aaron’s new book, The Genesis Book, these systems introduced design element that were later utilized by Satoshi Nakamoto. Aaron and Sjors explain what these elements are, and how they inspired Bitcoin’s design."
+speakers:
+  - 'Sjors Provoost'
+  - 'Aaron van Wirdum'
+categories:
+  - 'podcast'
+summary: 'In this episode of Bitcoin, Explained, Aaron and Sjors discuss two electronic cash projects that predate Bitcoin: Adam Back’s Hashcash and Nick Szabo’s Bit Gold. As detailed in Aaron’s new book, The Genesis Book, these systems introduced design element that were later utilized by Satoshi Nakamoto. Aaron and Sjors explain what these elements are, and how they inspired Bitcoin’s design.'
 ---
 Speaker 0: 00:00:18
 

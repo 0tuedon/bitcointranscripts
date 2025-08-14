@@ -10,7 +10,7 @@ tags:
 
 ## Introduction
 
-Hello.
+Hello. The idea was to do a more socratic style meetup. This was popularized by Bitdevs NYC and spread to SF. We tried this a few months ago with Jay. The idea is we run through research news, newsletters, podcasters, talk about what happened in the technical bitcoin community. We're going to have different presenters.
 
 Mike Schmidt is going to talk about some optech newsletters that he has been contributing to. Dhruv will talk about Hermit and Shamir secret sharing. Flaxman will teach us how to setup a multisig hardware wallet with Electrum. He is going to show us how you can actually do this and some of these things we have learned. Bryan Bishop will talk about his vaults proposal that was recently made. So ideally we can keep these each to about 10 minutes. They will probably go over a little though. Let's get a lot of audience participation and really interactive.
 

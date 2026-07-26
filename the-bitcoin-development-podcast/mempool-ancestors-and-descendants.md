@@ -1,16 +1,20 @@
 ---
-title: "Mempool Ancestors and Descendants"
-transcript_by: kouloumos via tstbtc v1.0.0 --needs-review
-media: https://podcasters.spotify.com/pod/show/bitcoinbrink/episodes/Mempool-Ancestors-and-Descendants-e1ald5e
-tags: ['cpfp']
-speakers: ['John Newbery', 'Gloria Zhao']
-summary: "John and Gloria continue their discussion of Bitcoin's mempool by explaining parent, child, ancestor and descendant transactions."
-date: 2021-11-24
+title: 'Mempool Ancestors and Descendants'
+transcript_by: '0tuedon via review.btctranscripts.com'
+media: 'https://podcasters.spotify.com/pod/show/bitcoinbrink/episodes/Mempool-Ancestors-and-Descendants-e1ald5e'
+date: '2021-11-24'
+tags:
+  - 'cpfp'
+speakers:
+  - 'John Newbery'
+  - 'Gloria Zhao'
+categories: []
+summary: 'John and Gloria continue their discussion of Bitcoin''s mempool by explaining parent, child, ancestor and descendant transactions.'
 additional_resources:
-  - title: Child pays for parent
-    url: https://bitcoinops.org/en/topics/cpfp/
-  - title: https://brink.dev/
-    url: https://brink.dev/
+  - title: 'Child pays for parent'
+    url: 'https://bitcoinops.org/en/topics/cpfp/'
+  - title: 'https://brink.dev/'
+    url: 'https://brink.dev/'
 ---
 ## Parent and child transactions
 
